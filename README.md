@@ -1,1 +1,2 @@
-# this is a simple web server that returns my bio when visited
+# HNG Task one
+This is a simple web server that returns information about me.
